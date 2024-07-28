@@ -1,0 +1,2 @@
+# sorcery
+Sorcery card game
